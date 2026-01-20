@@ -8,6 +8,9 @@ String name;
 
 
 void displayDetails() {
+
+String status = "Active";	
+	
 System.out.println("Students ID: " + id);
 System.out.println("Students Age: " + age);
 System.out.println("Students Name: " + name);
