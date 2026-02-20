@@ -13,8 +13,17 @@ Welcome to the 1-year Java training program repository. This repository contains
 
 ## Branches
 
-- `programming-constructs` - Active development branch for practice problems and assignments
+- `Backend` - Backend-related Java practice and assignments
+- `Workshop` - Workshop exercises and submissions
+- `classes-objects` - OOP basics: classes and objects practice
+- `encapsulation` - Encapsulation concepts and coding exercises
+- `inheritance-polymorphism` - Inheritance and polymorphism assignments
+- `interfaces-abstraction` - Interfaces and abstraction practice modules
+- `java-arrays` - Array programming problems in Java
 - `main` - Stable release branch
+- `methods` - Method-related programming exercises
+- `programming-constructs` - Active development branch for practice problems and assignments
+- `string-api` - String API practice and problem solving
 
 ## Getting Started
 
@@ -33,6 +42,3 @@ Welcome to the 1-year Java training program repository. This repository contains
 Educational project for BridgeLabz Training Program
 
 ---
-
-
-
