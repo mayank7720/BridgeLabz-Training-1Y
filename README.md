@@ -1,6 +1,6 @@
 # BridgeLabz Training - 1 Year Java Program
 
-**Instructor**: Kajal Wankhede Maam  
+**Instructor**: Namrata Salve  
 **Classroom**: GLA-Java-1Y-AT  
 **Institution**: BridgeLabz  
 
