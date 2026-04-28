@@ -17,21 +17,21 @@ Welcome to the 1-year Java training program repository. This repository contains
 - `workshop` - Workshop exercises and submissions
 - `classes-objects` - OOP basics: classes and objects practice
 - `encapsulation` - Encapsulation concepts and coding exercises
-- `exception-handling`
-- `generics-collections`
+- `exception-handling` - Exception handling concepts and exercises
+- `generics-collections` - Generics and Collections Framework practice
 - `inheritance-polymorphism` - Inheritance and polymorphism assignments
 - `interfaces-abstraction` - Interfaces and abstraction practice modules
 - `java-arrays` - Array programming problems in Java
-- `java-pakages`
-- `jdbc`
+- `java-pakages` - Java packages and access modifiers practice
+- `jdbc` - JDBC connectivity and database interaction exercises
 - `main` - Stable release branch
 - `methods` - Method-related programming exercises
-- `multithreading`
+- `multithreading` - Multithreading and concurrency practice
 - `programming-constructs` - Active development branch for practice problems and assignments
-- `regular-expressions`
-- `steam-api`
+- `regular-expressions` - Regular expressions practice problems
+- `steam-api` - Java Stream API exercises
 - `string-api` - String API practice and problem solving
-- `wrapper-classes`
+- `wrapper-classes` - Wrapper classes, autoboxing, and unboxing practice
 
 ## Getting Started
 
