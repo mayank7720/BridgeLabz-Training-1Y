@@ -14,16 +14,24 @@ Welcome to the 1-year Java training program repository. This repository contains
 ## Branches
 
 - `Backend` - Backend-related Java practice and assignments
-- `Workshop` - Workshop exercises and submissions
+- `workshop` - Workshop exercises and submissions
 - `classes-objects` - OOP basics: classes and objects practice
 - `encapsulation` - Encapsulation concepts and coding exercises
+- `exception-handling`
+- `generics-collections`
 - `inheritance-polymorphism` - Inheritance and polymorphism assignments
 - `interfaces-abstraction` - Interfaces and abstraction practice modules
 - `java-arrays` - Array programming problems in Java
+- `java-pakages`
+- `jdbc`
 - `main` - Stable release branch
 - `methods` - Method-related programming exercises
+- `multithreading`
 - `programming-constructs` - Active development branch for practice problems and assignments
+- `regular-expressions`
+- `steam-api`
 - `string-api` - String API practice and problem solving
+- `wrapper-classes`
 
 ## Getting Started
 
